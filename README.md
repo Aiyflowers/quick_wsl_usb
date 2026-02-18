@@ -1,0 +1,2 @@
+# quick_wsl_usb
+方便自己快速调用usbpid给wsl绑定usb设备的工具
