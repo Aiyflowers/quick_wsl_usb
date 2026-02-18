@@ -19,6 +19,4 @@
 
 直接运行 `USB_IPD_GUI.exe` 即可。
 
-## Author
 
-aiyflowers
